@@ -18,6 +18,7 @@ For more information, follow the links to the components below or visit the [pro
   * [Eclipse CDT.cloud Blueprint](https://github.com/eclipse-cdt-cloud/cdt-cloud-blueprint): Template for building custom web-based C/C++ tools with CDT.cloud and Theia
   * [CDT GDB DAP Adapter](https://github.com/eclipse-cdt-cloud/cdt-gdb-adapter) and its [VS Code extension](https://github.com/eclipse-cdt-cloud/cdt-gdb-vscode): Debug adapter for GDB
   * [CDT Amalgamator](https://github.com/eclipse-cdt-cloud/cdt-amalgamator): Debug adapter allowing common control over multiple debug adapters in VS Code
+  * [Clangd Contexts](https://github.com/eclipse-cdt-cloud/clangd-contexts): API for management of clangd configuration files in C/C++ projects using contexts.
   * Eclipse Trace Compass Cloud (🔧 in progress)
   * [More?](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions/categories/ideas)
 
