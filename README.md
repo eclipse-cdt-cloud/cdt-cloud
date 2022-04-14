@@ -30,6 +30,22 @@ If you are interested in a particular component or extension that is not part of
   * [Eclipse CDT](https://www.eclipse.org/cdt)
   * [Eclipse Trace Compass](https://www.eclipse.org/tracecompass)
 
+## 🤝 Meet the people behind CDT.cloud
+
+Connect with the people behind CDT.cloud in one of our virtual CDT.cloud community meetings.
+In these meetings, we discuss the status of all CDT.cloud projects, coordinate tasks, and exchange ideas.
+These meetings are open to everyone interested in CDT.cloud! Feel free to join!
+
+We meet every two months on the second Tuesday at 17:30 Central European Time.
+The next meetings are:
+
+  * Tuesday, June 14 · 17:30 – 18:20 CET · <https://meet.google.com/fyw-gpev-ujs>
+  * Tuesday, August 9, 2022 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
+  * Tuesday, October 11, 2022 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
+  * Tuesday, December 13, 2022⋅17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
+
+We are looking forward to seeing you there!
+
 ## 📫 Contact
 
 Get in [touch with us](https://cdt-cloud.io/contact), if you have questions or ideas!
@@ -38,4 +54,5 @@ Get in [touch with us](https://cdt-cloud.io/contact), if you have questions or i
   * [Github Issues](https://github.com/eclipse-cdt-cloud/cdt-cloud/issues) is a list of bugs and technical feature requests.
   * [Follow us](https://twitter.com/cdtcloud) on Twitter.
   * [Awesome group of people](https://projects.eclipse.org/projects/ecd.cdt.cloud/who) are making this project a reality.
+  * [A developer mailing list](https://accounts.eclipse.org/mailing-list/cdt-cloud-dev) is available for organizational developer updates.
   * [Professional support options](https://cdt-cloud.io/support) are available by the contributors of CDT.cloud.
