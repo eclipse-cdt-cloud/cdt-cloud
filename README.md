@@ -41,7 +41,7 @@ The next meetings are:
 
   * Tuesday, June 14 · 17:30 – 18:20 CET · <https://meet.google.com/fyw-gpev-ujs>
   * Tuesday, August 9, 2022 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
-  * Tuesday, October 11, 2022 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
+  * Tuesday, ~~October 11~~ October 18, 2022 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
   * Tuesday, December 13, 2022⋅17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
 
 We are looking forward to seeing you there!
