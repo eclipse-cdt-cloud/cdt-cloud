@@ -53,6 +53,6 @@ Get in [touch with us](https://cdt-cloud.io/contact), if you have questions or i
   * [Github Discussions](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions) is a place to ask questions and share your ideas with other members of our community.
   * [Github Issues](https://github.com/eclipse-cdt-cloud/cdt-cloud/issues) is a list of bugs and technical feature requests.
   * [Follow us](https://twitter.com/cdtcloud) on Twitter.
-  * [Awesome group of people](https://projects.eclipse.org/projects/ecd.CDT Cloud/who) are making this project a reality.
+  * [Awesome group of people](https://projects.eclipse.org/projects/ecd.cdt-cloud/who) are making this project a reality.
   * [A developer mailing list](https://accounts.eclipse.org/mailing-list/cdt-cloud-dev) is available for organizational developer updates.
   * [Professional support options](https://cdt-cloud.io/support) are available by the contributors of CDT Cloud.
