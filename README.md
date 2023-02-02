@@ -1,11 +1,11 @@
 # Eclipse CDT Cloud
 
 CDT Cloud hosts components and best practices for building customizable web-based C/C++ tools.
-As a demonstration of how these components can be integrated with each other, CDT.cloud provides a template tool named *CDT Cloud Blueprint*. For more information, please also visit the [project website](https://www.eclipse.org/cdt-cloud).
+As a demonstration of how these components can be integrated with each other, CDT Cloud provides a template tool named *CDT Cloud Blueprint*. For more information, please also visit the [project website](https://www.eclipse.org/cdt-cloud).
 
 <div width="85%" align="center" style="padding-top:1em; padding-bottom:1em;">
   <a href="https://www.eclipse.org/cdt-cloud">
-  <img src="https://www.eclipse.org/cdt-cloud/images/diagramanimated.gif" alt="CDT.cloud in action" style="border-radius:1%; box-shadow: 2px 2px 8px gray" />
+  <img src="https://www.eclipse.org/cdt-cloud/images/diagramanimated.gif" alt="CDT Cloud in action" style="border-radius:1%; box-shadow: 2px 2px 8px gray" />
   <br/><b>CDT Cloud Blueprint in Action</b>
   </a>
 </div>
