@@ -2,7 +2,7 @@
 
 This content is produced and maintained by the Eclipse CDT Cloud project.
 
-* Project home: https://projects.eclipse.org/projects/ecd.CDT Cloud
+* Project home: https://projects.eclipse.org/projects/ecd.cdt-cloud
 
 ## Trademarks
 
