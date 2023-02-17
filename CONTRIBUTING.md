@@ -1,14 +1,14 @@
-# Contributing to Eclipse CDT.cloud
+# Contributing to Eclipse CDT Cloud
 
-Thanks for your interest in [CDT.Cloud](https://cdt-cloud.io)!
-The following is a set of guidelines for contributing to any components within the CDT.Cloud project.
+Thanks for your interest in [CDT Cloud](https://www.eclipse.org/cdt-cloud)!
+The following is a set of guidelines for contributing to any components within the CDT Cloud project.
 
 ## How to Contribute
 
 In order to contribute, please first [open an issue](https://github.com/eclipse-cdt-cloud/cdt-cloud/issues) that clearly describes the bug you intend to fix or the feature you would like to add.
 Make sure you provide a way to reproduce the bug or test the proposed feature.
 Once you have your code ready for review, please open a pull request in the respective repository.
-A [committer of the CDT.Cloud project](https://projects.eclipse.org/projects/ecd.cdt.cloud/who) will then review your contribution and help to get it merged.
+A [committer of the CDT Cloud project](https://projects.eclipse.org/projects/ecd.cdt-cloud) will then review your contribution and help to get it merged.
 
 Please note that before your pull request can be accepted, you must electronically sign the [Eclipse Contributor Agreement](https://www.eclipse.org/legal/ECA.php).
 For more information, see the [Eclipse Foundation Project Handbook](https://www.eclipse.org/projects/handbook/#resources-commit).
@@ -44,4 +44,4 @@ https://www.eclipse.org/projects/handbook/#resources-commit
 
 ## Contact
 
-Please refer to the contact options listed on the [CDT.Cloud website](https://cdt-cloud.io/contact/).
+Please refer to the contact options listed on the [CDT Cloud website](https://www.eclipse.org/cdt-cloud/contact/).

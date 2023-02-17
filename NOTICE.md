@@ -1,12 +1,12 @@
-# Notices for Eclipse CDT.cloud
+# Notices for Eclipse CDT Cloud
 
-This content is produced and maintained by the Eclipse CDT.cloud project.
+This content is produced and maintained by the Eclipse CDT Cloud project.
 
-* Project home: https://projects.eclipse.org/projects/ecd.cdt.cloud
+* Project home: https://projects.eclipse.org/projects/ecd.cdt-cloud
 
 ## Trademarks
 
-Eclipse CDT.cloud is a trademark of the Eclipse Foundation.
+Eclipse CDT Cloud is a trademark of the Eclipse Foundation.
 
 ## Copyright
 
