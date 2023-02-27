@@ -36,6 +36,9 @@ Connect with the people behind CDT Cloud in one of our virtual CDT Cloud communi
 In these meetings, we discuss the status of all CDT Cloud projects, coordinate tasks, and exchange ideas.
 These meetings are open to everyone interested in CDT Cloud! Feel free to join!
 
+For more details, please find the next planned calls and the agenda on 
+https://github.com/eclipse-cdt-cloud/cdt-cloud/wiki/CDT-Cloud-SIG-Meetings#upcoming-dates-and-connection-details
+
 We meet every month on the third Monday at 15:00 Central European Time.
 The next meetings are:
 
