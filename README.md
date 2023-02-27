@@ -32,25 +32,11 @@ If you are interested in a particular component or extension that is not part of
 
 ## 🤝 Meet the people behind CDT Cloud
 
-Connect with the people behind CDT Cloud in one of our virtual CDT Cloud community meetings.
-In these meetings, we discuss the status of all CDT Cloud projects, coordinate tasks, and exchange ideas.
+Connect with the people behind CDT Cloud in one of our virtual CDT Cloud SIG community meetings.
+In these meetings, we discuss the status of all CDT Cloud projects and embedded SIG initiatives, coordinate tasks, and exchange ideas.
 These meetings are open to everyone interested in CDT Cloud! Feel free to join!
 
-For more details, please find the next planned calls and the agenda on 
-https://github.com/eclipse-cdt-cloud/cdt-cloud/wiki/CDT-Cloud-SIG-Meetings#upcoming-dates-and-connection-details
-
-We meet every month on the third Monday at 15:00 Central European Time.
-The next meetings are:
-
-  * Monday, April 17, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, May 15, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, June 19, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, July 17, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, August 21, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, September 18, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, October 16, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, November 20, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
-  * Monday, December 18, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+Please find the upcoming dates and connection details on the [CDT Cloud SIG meeting page](https://github.com/eclipse-cdt-cloud/cdt-cloud/wiki/CDT-Cloud-SIG-Meetings#upcoming-dates-and-connection-details).
 
 We are looking forward to seeing you there!
 
