@@ -36,15 +36,18 @@ Connect with the people behind CDT Cloud in one of our virtual CDT Cloud communi
 In these meetings, we discuss the status of all CDT Cloud projects, coordinate tasks, and exchange ideas.
 These meetings are open to everyone interested in CDT Cloud! Feel free to join!
 
-We meet every two months on the second Tuesday at 17:30 Central European Time.
+We meet every month on the third Monday at 15:00 Central European Time.
 The next meetings are:
 
-  * Tuesday, February 21, 2023 · 17:30 – 18:20 CET · <https://meet.google.com/fyw-gpev-ujs>
-  * Tuesday, April 11, 2023 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
-  * Tuesday, June 13, 2023 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
-  * Tuesday, August 8, 2023 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
-  * Tuesday, October 10, 2023 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
-  * Tuesday, December 12, 2023 · 17:30 – 18:20 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, April 17, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, May 15, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, June 19, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, July 17, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, August 21, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, September 18, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, October 16, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, November 20, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
+  * Monday, December 18, 2023 · 15:00 – 16:00 · <https://meet.google.com/fyw-gpev-ujs>
 
 We are looking forward to seeing you there!
 
