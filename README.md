@@ -36,7 +36,7 @@ Connect with the people behind CDT Cloud in one of our virtual CDT Cloud SIG com
 In these meetings, we discuss the status of all CDT Cloud projects and embedded SIG initiatives, coordinate tasks, and exchange ideas.
 These meetings are open to everyone interested in CDT Cloud! Feel free to join!
 
-Please find the upcoming dates and connection details on the [CDT Cloud SIG meeting page](https://github.com/eclipse-cdt-cloud/cdt-cloud/wiki/CDT-Cloud-SIG-Meetings#upcoming-dates-and-connection-details).
+Please find the upcoming dates and connection details on the [CDT Cloud meeting page](https://github.com/eclipse-cdt-cloud/cdt-cloud/wiki/CDT-Cloud-Meetings).
 
 We are looking forward to seeing you there!
 
