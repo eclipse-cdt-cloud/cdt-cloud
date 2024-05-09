@@ -20,6 +20,7 @@ For more information, follow the links to the components below.
   * [CDT Amalgamator](https://github.com/eclipse-cdt-cloud/cdt-amalgamator): Debug adapter allowing common control over multiple debug adapters in VS Code
   * [Clangd Contexts](https://github.com/eclipse-cdt-cloud/clangd-contexts): API for management of clangd configuration files in C/C++ projects using contexts.
   * [Eclipse Trace Compass.cloud](https://github.com/eclipse-cdt-cloud/theia-trace-extension): Trace viewer for Eclipse Theia
+  * [Memory Inspector](https://github.com/eclipse-cdt-cloud/vscode-memory-inspector): A Visual Studio Code extension that provides a powerful and configurable memory viewer that works with debug adapters.
   * [More?](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions/categories/ideas)
 
 If you are interested in a particular component or extension that is not part of or integrated with CDT Cloud yet, but that you feel is an important piece of a web-based C/C++ tool ecosystem, feel free to [propose your idea](https://github.com/eclipse-cdt-cloud/cdt-cloud/discussions/categories/ideas).
